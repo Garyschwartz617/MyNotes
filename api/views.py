@@ -80,9 +80,6 @@ def getNote(request, pk):
         
 
 
-
-
-
 # @api_view(['POST'])
 # def createNote(request):
 #     data = request.data
